@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HydrationGHW2022</string>
+    <string name="you_drank_this_many_cups_of_water">You drank this many cups of water:</string>
+    <string name="_1_water">+1 water</string>
+    <string name="_0">0</string>
+</resources>
